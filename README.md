@@ -37,12 +37,12 @@ The system is divided into modular components to improve maintainability.
 
 ### Project Structure
 ascii_animation_player
- main.py
- animation_loader.py
- animations/
-   idle.txt
-   walk.txt
-   run.txt
+  main.py
+  animation_loader.py
+  animations/
+    idle.txt
+    walk.txt
+    run.txt
 
 
 ## 3. Implementation
