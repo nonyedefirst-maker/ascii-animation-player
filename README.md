@@ -85,4 +85,4 @@ The project was deployed by pushing the source code to a GitHub repository.
 3. Run the command:
   python main.py
 
-  I use Visual code studio so pressing run with on without debugging works
+  I use Visual code studio so pressing run with or without debugging works
