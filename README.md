@@ -63,7 +63,6 @@ The system was tested by:
 - Testing automatic animation switching
 - Ensuring the application exits correctly using Ctrl + C
 
----
 
 ## 5. Deployment
 
@@ -78,3 +77,12 @@ The project was deployed by pushing the source code to a GitHub repository.
 - Fixing bugs or errors discovered during use
 - Refactoring code to improve readability and maintainability
 
+
+## How to Run the Project
+
+1. Ensure Python is installed
+2. Open the project folder in a terminal
+3. Run the command:
+  python main.py
+
+  I use Visual code studio so pressing run with on without debugging works
